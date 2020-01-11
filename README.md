@@ -1,6 +1,7 @@
 # Online Shopping
 
-Open populate PopulateDatabase and run the Populate Database.php. If needed, modify the DBConn.php to link it to your mySQL database.
+Open PopulateDatabase and run the Populate Database.php. If needed, modify the DBConn.php to link it to your mySQL database.
+To start the website, navigate to myShop.php on your browser.
 
 This image depicts the homepage of the website. It allows users to add items to their cart without being logged in, and it will request the user to log in or register before they proceed to checkout.
 ![Front page not logged in](ReadMeImages/Front%20page%20Not%20logged%20in.png)
