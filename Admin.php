@@ -99,7 +99,7 @@ echo "<th>Add to Cart</th>" ;
 echo  "</tr>";
 echo "<form method=post>";
 //-----------------------------------------------------------------------------
-echo"<h3>Our Inventort</h3>";
+echo"<h3>Our Inventory</h3>";
 //Populate Table
 //-----------------------------------------------------------------------------
 $shoppingCart = $Cart->getProductList(); 
